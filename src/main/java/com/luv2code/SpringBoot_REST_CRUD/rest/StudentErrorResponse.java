@@ -1,7 +1,5 @@
 package com.luv2code.SpringBoot_REST_CRUD.rest;
 
-import org.springframework.http.HttpStatus;
-
 public class StudentErrorResponse {
     private int status;
     private String message;
